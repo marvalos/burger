@@ -1,4 +1,12 @@
-li {
+  html { 
+    background: url(https://cache.desktopnexus.com/thumbseg/1282/1282802-bigthumbnail.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  li {
     padding: 5px;
     margin: 5px;
     background: #faebd7;
